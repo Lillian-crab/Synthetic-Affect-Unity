@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e7d1d532da54ca43be08e054f2d641e, type: 3}
+  m_Name: Stage3_EfficiencyOffice
+  m_EditorClassIdentifier: 
+  stageID: Stage 3
+  stageTitle: Efficiency Office
+  stageSummary: "You have entered the \u201CEfficiency Office\u201D zone.\nThe platform
+    optimizes your editing style based on task-oriented content structures.\nYour
+    task is to appear efficient without becoming mechanical."
+  trend: Structured Layout / Clear Headlines
+  emotionDemand: Rational, Ordered, Lightly Motivational
+  brush: Card-like info blocks, visualized processes, light formulaic style

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5e7d1d532da54ca43be08e054f2d641e, type: 3}
+  m_Name: Stage2_EmotionDump
+  m_EditorClassIdentifier: 
+  stageID: Stage 2
+  stageTitle: Emotion Dump
+  stageSummary: "You have entered the \u201CEmotion Dump\u201D space.\nThe platform
+    monitors your emotional density and textual rhythm to ensure authenticity without
+    excess.\nYour task is to express vulnerability while staying within the platform\u2019s
+    emotional tolerance."
+  trend: Restrained Expression / Soft Disclosure
+  emotionDemand: Vulnerable but Contained
+  brush: Fragmented pacing, slow rhythm, minimal text
